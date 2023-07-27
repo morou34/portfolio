@@ -1,4 +1,3 @@
-take this code dont change anything all i need is to open the link in new tab 
 # Mon Portfolio
 
 Bienvenue sur mon portfolio ! Je suis étudiant en Maîtrise en informatique - intelligence artificielle à l'Université Laval à Québec. Passionné par l'intelligence artificielle et les nouvelles technologies, j'aime explorer et créer des solutions innovantes pour résoudre des problèmes concrets.
