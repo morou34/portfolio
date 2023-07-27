@@ -10,7 +10,7 @@ Sur cette page, vous trouverez une sélection de projets auxquels j'ai particip�
 
 Description : Projet de cartographie et de navigation en utilisant un drone équipé d'un capteur Kinect. Implémentation avec ROS, Gazebo, Python et Rviz pour simuler le drone. Test et validation des algorithmes de cartographie et de navigation. Acquisition de données 3D avec le capteur Kinect pour le SLAM. Renforcement des compétences en robotique et en programmation.
 
-### Projet 2 : Système de vision pour l'extraction cinématique des mouvements de rongeurs en liberté (CERVO Brain Research Centre, Québec) [Lien](https://drive.google.com/file/d/1QMRhIVTQN50q__fOXKI4WeQVAq_UELuD/view?usp=sharing))
+### Projet 2 : Système de vision pour l'extraction cinématique des mouvements de rongeurs en liberté (CERVO Brain Research Centre, Québec) [Lien](https://drive.google.com/file/d/1QMRhIVTQN50q__fOXKI4WeQVAq_UELuD/view?usp=sharing)
 
 Description : Implémentation d'un système de vision novateur pour extraire les mouvements cinématiques de rongeurs en mouvement libre. Utilisation de techniques d'apprentissage profond et de collecte d'étiquettes automatisée pour améliorer la précision des décodeurs neuronaux. Projet réalisé en collaboration avec le Centre CERVO.
 
