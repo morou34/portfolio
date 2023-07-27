@@ -24,6 +24,9 @@ Description : Implémentation d'un système de vision novateur pour extraire les
 
 Description : L'objectif principal de ce projet était de résoudre un problème concret dans le domaine de la santé en identifiant les combinaisons nocives de médicaments à partir de données simulées représentant les informations de 3 millions de patients du réseau de santé québécois.
 
+### Autres projets : 
+Description : Vous pouvez consulter d'autres projets sur mon répertoire GITHUB [Lien](https://github.com/morou34?tab=repositories)
+
 ## Compétences
 
 - Langages de programmation : C, C++, Python, HTML, CSS, JavaScript, SQL, Bash
