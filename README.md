@@ -9,7 +9,14 @@ Sur cette page, vous trouverez une sélection de projets auxquels j'ai particip�
 ### Projet 1 : Développement d'une application mobile pour le Bureau Environnement et terre de Wôlinak (Québec) 
 
 Description : Développement d'une application mobile destinée à une communauté autochtone du Québec, permettant la collecte de données sur les activités de pêche dans leur territoire. Mon rôle dans ce projet m'a permis de concevoir l'interface utilisateur, de mettre en place une base de données robuste et de développer le backend de l'application. Cette expérience a renforcé mes compétences en React Native, PostgreSQL et NodeJS, et m'a enseigné l'importance de répondre aux besoins spécifiques des utilisateurs tout en travaillant en équipe.
-Vous pouvez consulter les images des screens de l'application à partir des liens suivants: [screen1](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144744_Expo%20Go.jpg){:target="_blank"} | [screen2](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144753_Expo%20Go.jpg){:target="_blank"} | [screen3](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144802_Expo%20Go.jpg){:target="_blank"} | [screen4](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144813_Expo%20Go.jpg){:target="_blank"} | [screen5](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144909_Expo%20Go.jpg){:target="_blank"} | [screen6](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144937_Expo%20Go.jpg){:target="_blank"} | [screen7](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_145003_Expo%20Go.jpg){:target="_blank"}
+Vous pouvez consulter les images des screens de l'application à partir des liens suivants: 
+- [screen1](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144744_Expo%20Go.jpg){:target="_blank"}
+- [screen2](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144753_Expo%20Go.jpg){:target="_blank"}
+- [screen3](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144802_Expo%20Go.jpg){:target="_blank"}
+- [screen4](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144813_Expo%20Go.jpg){:target="_blank"}
+- [screen5](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144909_Expo%20Go.jpg){:target="_blank"}
+- [screen6](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144937_Expo%20Go.jpg){:target="_blank"}
+- [screen7](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_145003_Expo%20Go.jpg){:target="_blank"}
 
 ### Projet 2 : SLAM avec un drone (simulation) [Lien](https://github.com/morou34/Navigation-of-an-Autonomous-Differential-Drive-Robot){:target="_blank"}
 
@@ -37,8 +44,6 @@ Description : L'objectif principal de ce projet était de résoudre un problème
 
 Je suis toujours à la recherche de nouveaux défis et d'opportunités pour continuer à apprendre et à grandir dans le domaine de l'IA et du développement. N'hésitez pas à me contacter si vous souhaitez en savoir plus sur mes projets ou si vous avez des opportunités intéressantes à partager.
 
-Vous pouvez me joindre par e-mail à [morou34@ulaval.ca](mailto:morou@ulaval.ca){:target="_blank"} ou me trouver sur [LinkedIn](https://www.linkedin.com/in/morou34/){:target="_blank"}.
+Vous pouvez me joindre par e-mail à [votre@email.com](mailto:votre@email.com).
 
-Je vous remercie de visiter mon portfolio et je suis impatient de partager avec vous ma passion pour la technologie et l'IA !
-
-Cordialement,
+Je vous remercie de visiter mon portfolio et je suis impatient de partager avec vous ma passion pour la technologie et l'IA!
