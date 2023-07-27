@@ -9,14 +9,13 @@ Sur cette page, vous trouverez une sélection de projets auxquels j'ai particip�
 ### Projet 1 : Développement d'une application mobile pour le Bureau Environnement et terre de Wôlinak (Québec) 
 
 Description : Développement d'une application mobile destinée à une communauté autochtone du Québec, permettant la collecte de données sur les activités de pêche dans leur territoire. Mon rôle dans ce projet m'a permis de concevoir l'interface utilisateur, de mettre en place une base de données robuste et de développer le backend de l'application. Cette expérience a renforcé mes compétences en React Native, PostgreSQL et NodeJS, et m'a enseigné l'importance de répondre aux besoins spécifiques des utilisateurs tout en travaillant en équipe.
-Vous pouvez consulter les images des screens de l'application à partir des liens suivants: [screen1](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144744_Expo%20Go.jpg) | [screen2](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144753_Expo%20Go.jpg) | [screen3](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144802_Expo%20Go.jpg) | [screen4](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144813_Expo%20Go.jpg) | [screen5](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144909_Expo%20Go.jpg) | [screen6](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144937_Expo%20Go.jpg) | [screen7](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_145003_Expo%20Go.jpg)
+Vous pouvez consulter les images des screens de l'application à partir des liens suivants: [screen1](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144744_Expo%20Go.jpg){:target="_blank"} | [screen2](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144753_Expo%20Go.jpg){:target="_blank"} | [screen3](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144802_Expo%20Go.jpg){:target="_blank"} | [screen4](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144813_Expo%20Go.jpg){:target="_blank"} | [screen5](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144909_Expo%20Go.jpg){:target="_blank"} | [screen6](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_144937_Expo%20Go.jpg){:target="_blank"} | [screen7](https://raw.githubusercontent.com/morou34/portfolio/main/carnet-app-images/Screenshot_20230727_145003_Expo%20Go.jpg){:target="_blank"}
 
-
-### Projet 2 : SLAM avec un drone (simulation) [Lien](https://github.com/morou34/Navigation-of-an-Autonomous-Differential-Drive-Robot)
+### Projet 2 : SLAM avec un drone (simulation) [Lien](https://github.com/morou34/Navigation-of-an-Autonomous-Differential-Drive-Robot){:target="_blank"}
 
 Description : Projet de cartographie et de navigation en utilisant un drone équipé d'un capteur Kinect. Implémentation avec ROS, Gazebo, Python et Rviz pour simuler le drone. Test et validation des algorithmes de cartographie et de navigation. Acquisition de données 3D avec le capteur Kinect pour le SLAM. Renforcement des compétences en robotique et en programmation.
 
-### Projet 3 : Système de vision pour l'extraction cinématique des mouvements de rongeurs en liberté (CERVO Brain Research Centre, Québec) [Lien](https://drive.google.com/file/d/1QMRhIVTQN50q__fOXKI4WeQVAq_UELuD/view?usp=sharing)
+### Projet 3 : Système de vision pour l'extraction cinématique des mouvements de rongeurs en liberté (CERVO Brain Research Centre, Québec) [Lien](https://drive.google.com/file/d/1QMRhIVTQN50q__fOXKI4WeQVAq_UELuD/view?usp=sharing){:target="_blank"}
 
 Description : Implémentation d'un système de vision novateur pour extraire les mouvements cinématiques de rongeurs en mouvement libre. Utilisation de techniques d'apprentissage profond et de collecte d'étiquettes automatisée pour améliorer la précision des décodeurs neuronaux. Projet réalisé en collaboration avec le Centre CERVO.
 
@@ -38,9 +37,8 @@ Description : L'objectif principal de ce projet était de résoudre un problème
 
 Je suis toujours à la recherche de nouveaux défis et d'opportunités pour continuer à apprendre et à grandir dans le domaine de l'IA et du développement. N'hésitez pas à me contacter si vous souhaitez en savoir plus sur mes projets ou si vous avez des opportunités intéressantes à partager.
 
-Vous pouvez me joindre par e-mail à [votre@email.com] ou me trouver sur [LinkedIn](lien_vers_votre_profil_LinkedIn).
+Vous pouvez me joindre par e-mail à [morou34@ulaval.ca](mailto:morou@ulaval.ca){:target="_blank"} ou me trouver sur [LinkedIn](https://www.linkedin.com/in/morou34/){:target="_blank"}.
 
 Je vous remercie de visiter mon portfolio et je suis impatient de partager avec vous ma passion pour la technologie et l'IA !
 
 Cordialement,
-[Votre nom]
