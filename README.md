@@ -1,6 +1,6 @@
 # Mon Portfolio
 
-Bienvenue sur mon portfolio ! Je suis [votre nom], étudiant en Maîtrise en informatique - intelligence artificielle à l'Université Laval à Québec. Passionné par l'intelligence artificielle et les nouvelles technologies, j'aime explorer et créer des solutions innovantes pour résoudre des problèmes concrets.
+Bienvenue sur mon portfolio ! Je suis étudiant en Maîtrise en informatique - intelligence artificielle à l'Université Laval à Québec. Passionné par l'intelligence artificielle et les nouvelles technologies, j'aime explorer et créer des solutions innovantes pour résoudre des problèmes concrets.
 
 ## Projets
 
