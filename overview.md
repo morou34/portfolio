@@ -20,6 +20,14 @@ Description : L'objectif principal de ce projet était de résoudre un problème
 
 ## Compétences
 
+- Langages de programmation : C, C++, Python, HTML, CSS, JavaScript, SQL, Bash
+- Librairies et frameworks : Scikit, PyTorch, TensorFlow, OpenCV, Flask, Pandas, Numpy, Matplotlib, Seaborn
+- Base de données : PostgreSQL, MySQL, SQLite, MongoDB, Firebase
+- Développement Web : REST API, ReactJS, NextJS, React Native, NodeJS
+- DevOps : GIT, Docker, Kubernetes
+- Outils d'analyse de données : Power BI
+- Plateformes : Linux, Web, Windows, Arduino, Raspberry, AWS
+
 ## Contact
 
 Je suis toujours à la recherche de nouveaux défis et d'opportunités pour continuer à apprendre et à grandir dans le domaine de l'IA et du développement. N'hésitez pas à me contacter si vous souhaitez en savoir plus sur mes projets ou si vous avez des opportunités intéressantes à partager.
