@@ -6,15 +6,15 @@ Bienvenue sur mon portfolio ! Je suis [votre nom], étudiant en Maîtrise en inf
 
 Sur cette page, vous trouverez une sélection de projets auxquels j'ai participé, démontrant mes compétences en développement et mon expertise en intelligence artificielle. Chaque projet est accompagné d'une brève description et d'un lien vous permettant d'en savoir plus ou de consulter le code source sur GitHub.
 
-### Projet 1 : SLAM avec un drone (simulation) [Lien](lien_vers_le_projet)
+### Projet 1 : SLAM avec un drone (simulation) [Lien](https://github.com/morou34/Navigation-of-an-Autonomous-Differential-Drive-Robot)
 
 Description : Projet de cartographie et de navigation en utilisant un drone équipé d'un capteur Kinect. Implémentation avec ROS, Gazebo, Python et Rviz pour simuler le drone. Test et validation des algorithmes de cartographie et de navigation. Acquisition de données 3D avec le capteur Kinect pour le SLAM. Renforcement des compétences en robotique et en programmation.
 
-### Projet 2 : Système de vision pour l'extraction cinématique des mouvements de rongeurs en liberté (CERVO Brain Research Centre, Québec) [Lien](lien_vers_le_projet)
+### Projet 2 : Système de vision pour l'extraction cinématique des mouvements de rongeurs en liberté (CERVO Brain Research Centre, Québec) [Lien](https://drive.google.com/file/d/1QMRhIVTQN50q__fOXKI4WeQVAq_UELuD/view?usp=sharing))
 
 Description : Implémentation d'un système de vision novateur pour extraire les mouvements cinématiques de rongeurs en mouvement libre. Utilisation de techniques d'apprentissage profond et de collecte d'étiquettes automatisée pour améliorer la précision des décodeurs neuronaux. Projet réalisé en collaboration avec le Centre CERVO.
 
-### Projet 3 : Détection de la polypharmacie [Lien](lien_vers_le_projet)
+### Projet 3 : Détection de la polypharmacie
 
 Description : L'objectif principal de ce projet était de résoudre un problème concret dans le domaine de la santé en identifiant les combinaisons nocives de médicaments à partir de données simulées représentant les informations de 3 millions de patients du réseau de santé québécois.
 
