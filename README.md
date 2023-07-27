@@ -29,9 +29,9 @@ Description : Ici, vous pouvez écrire une brève description du projet et expli
 
 Je suis toujours à la recherche de nouveaux défis et d'opportunités pour continuer à apprendre et à grandir dans le domaine de l'IA et du développement. N'hésitez pas à me contacter si vous souhaitez en savoir plus sur mes projets ou si vous avez des opportunités intéressantes à partager.
 
-Vous pouvez me joindre par e-mail à [votre@email.com] ou me trouver sur [LinkedIn](lien_vers_votre_profil_LinkedIn).
+Vous pouvez me joindre par e-mail à [votre@email.com] ou me trouver sur [LinkedIn](https://www.linkedin.com/in/morou34/).
 
 Je vous remercie de visiter mon portfolio et je suis impatient de partager avec vous ma passion pour la technologie et l'IA !
 
 Cordialement,
-[Votre nom]
+[morou34]
